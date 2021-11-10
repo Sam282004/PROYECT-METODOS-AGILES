@@ -1,0 +1,57 @@
+* {
+    background-color: #FFEAEA;
+}
+
+.logo {
+    height: 55px;
+    border-bottom: solid black;
+}
+
+
+/*Cards*/
+
+#nova3 {
+    text-align: center;
+    padding-left: 6%;
+}
+
+#imgimg {
+    width: 600xp;
+    height: 600xp;
+}
+
+
+/*Cards*/
+
+
+/*Tarjeta*/
+
+.card-img-top {
+    padding: 2%;
+    height: 80px;
+    margin-left: 50px;
+}
+
+
+/*Tarjeta*/
+
+
+/*PARTE DE SAMUEL*/
+
+.footer {
+    padding: 50px 0;
+    background-color: #fff;
+    color: #4b4c4d;
+}
+
+
+/*PARTE DE SAMUEL*/
+
+
+/*Terminos y Condiciones*/
+
+.Term {
+    font-family: verdana, Tahoma;
+    font-style: italic;
+    font-weight: normal;
+}
